@@ -1,1 +1,0 @@
-git checkout -- test.txt;意思是从当前版本库的文件,替换现在的
